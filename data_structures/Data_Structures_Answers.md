@@ -10,7 +10,7 @@ Add your answers to the questions below.
 
 3. What is the runtime complexity of your `breadth_first_for_each` method?
 
-`O(n)`
+`O(n^2)`
 
 4. What is the space complexity of your `breadth_first_for_each` method?
 
